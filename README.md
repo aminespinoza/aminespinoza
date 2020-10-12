@@ -18,11 +18,11 @@
 
 ### Mis últimos artículos
 <!-- BLOG-POST-LIST:START -->
+- [Protege tus ramas (branch) en Azure DevOps](http://aminespinoza.com/protege-tus-ramas-branch-en-azure-devops/)
 - [Obtener el valor de un secreto de KeyVault en Terraform](http://aminespinoza.com/obtener-el-valor-de-un-secreto-de-keyvault-en-terraform/)
 - [Estilizando un archivo Markdown](http://aminespinoza.com/estilizando-un-archivo-markdown/)
 - [Trabajando con ciclos en Terraform](http://aminespinoza.com/trabajando-con-ciclos-en-terraform/)
 - [¿Por qué usar Terraform para tu infraestructura?](http://aminespinoza.com/por-que-usar-terraform-para-tu-infraestructura/)
-- [Guarda el estado de Terraform usando Github Actions](http://aminespinoza.com/crear-una-cuenta-de-azure-storage-y-usarla-para-el-estado-de-terraform-con-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Mis últimos videos
