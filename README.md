@@ -27,11 +27,11 @@
 
 ### Mis últimos videos
 <!-- YOUTUBE:START -->
+- [5 tips para ser mejor Desarrollador de Software](https://www.youtube.com/watch?v=oZWDaoaHLxA)
 - [¿Por qué y para qué usar Github CLI?](https://www.youtube.com/watch?v=EDOoUSbXin8)
 - [¿Qué **** hace un desarrollador de software?](https://www.youtube.com/watch?v=H6e19XoihBo)
 - [Aprendiendo a usar Ngrok a profundidad](https://www.youtube.com/watch?v=YA_xMQOIZo0)
 - [¡La carta de presentación definitiva de un desarrollador de software!](https://www.youtube.com/watch?v=Fik86by17OY)
-- [Control de versiones con Git en VS Code](https://www.youtube.com/watch?v=uHEJoEDzQ-w)
 <!-- YOUTUBE:END -->
 
 [website]: https://aminespinoza.com/
