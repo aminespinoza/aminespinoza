@@ -18,11 +18,11 @@
 
 ### Mis últimos artículos
 <!-- BLOG-POST-LIST:START -->
+- [Instalación de SQL Server en Ubuntu 20.04](http://aminespinoza.com/instalacion-de-sql-server-en-ubuntu-20-04/)
 - [Parámetros y su uso en Azure DevOps](http://aminespinoza.com/parametros-y-su-uso-en-azure-devops/)
 - [Stages y aprobación manual en Azure DevOps](http://aminespinoza.com/stages-y-aprobacion-manual-en-azure-devops/)
 - [Condiciones en Azure Pipelines usando YAML](http://aminespinoza.com/condiciones-en-azure-pipelines-usando-yaml/)
 - [Obteniendo los secretos de KeyVault en Azure Pipelines (parte 2)](http://aminespinoza.com/obteniendo-los-secretos-de-keyvault-en-azure-pipelines-parte-2/)
-- [Obteniendo los secretos de KeyVault en Azure Pipelines (Parte 1)](http://aminespinoza.com/obteniendo-los-secretos-de-keyvault-en-azure-pipelines-parte-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Mis últimos videos
