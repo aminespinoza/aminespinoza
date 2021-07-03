@@ -18,11 +18,11 @@
 
 ### Mis últimos artículos
 <!-- BLOG-POST-LIST:START -->
+- [Como evitar un conflicto de versiones al unificar un proyecto con VS Code](http://aminespinoza.com/como-evitar-un-conflicto-de-versiones-al-unificar-un-proyecto-con-vs-code/)
 - [Cómo conectarte de manera remota a SQL Server en Ubuntu](http://aminespinoza.com/como-conectarte-de-manera-remota-a-sql-server-en-ubuntu/)
 - [Instalación de SQL Server en Ubuntu 20.04](http://aminespinoza.com/instalacion-de-sql-server-en-ubuntu-20-04/)
 - [Parámetros y su uso en Azure DevOps](http://aminespinoza.com/parametros-y-su-uso-en-azure-devops/)
 - [Stages y aprobación manual en Azure DevOps](http://aminespinoza.com/stages-y-aprobacion-manual-en-azure-devops/)
-- [Condiciones en Azure Pipelines usando YAML](http://aminespinoza.com/condiciones-en-azure-pipelines-usando-yaml/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Mis últimos videos
